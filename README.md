@@ -81,3 +81,6 @@ The project provides:
 
 ## Outcome  
 The dashboards provide a clear view of profitability, losses, demand trends, and shortages, supporting data-driven business optimization.
+
+<img width="1741" height="845" alt="Screenshot 2025-08-31 130443" src="https://github.com/user-attachments/assets/85b77b61-b2ac-43a0-a050-db6d514f4d39" />
+
